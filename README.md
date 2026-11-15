@@ -185,8 +185,8 @@ Build practical web and mobile solutions.
 **Education**
 
 - Bachelor of Management Information Systems, Malawi College of Accountancy (2026)
-- Advanced Diploma in Information Technology, MUBAS (2017)
-- Diploma in Information Technology, MUBAS (2016)
+- Advanced Diploma in Information Technology, MUBAS formerly(Polytechnic) (2017)
+- Diploma in Information Technology, MUBAS formerly (Polytechnic) (2016)
 
 **Certifications**
 
