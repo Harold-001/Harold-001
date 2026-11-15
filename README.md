@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea6a0&height=190&section=header&text=Jose%20M&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=IT%20Specialist%20%7C%20Cybersecurity%20%26%20Data%20Protection%20Trainer%20%7C%20Data%20Analyst%20%7C%20Developer&descSize=16&descAlignY=58" alt="Harold Banda banner" />
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=2EA6A0&center=true&vCenter=true&width=720&lines=Keeping+systems+secure+and+running;Turning+data+into+decisions;Training+people+to+protect+their+data;Building+web+and+mobile+apps+that+work" alt="Typing animation" />
 </a>
