@@ -145,7 +145,7 @@ Build practical web and mobile solutions.
 | :-- | :-- | :-- | :-- | :-- |
 | **Supplier Tracking and Prequalification System (STPS)** | Final-year project: a web application for managing supplier records, tracking supplier activity and running the supplier prequalification process, with a Django admin panel for administrators | Python, Django, PostgreSQL, HTML/CSS, JavaScript, Bootstrap | Built | 
 
-| **Dot Click IT Solutions** | Responsive company website for an IT solutions business in Malawi. HTML, CSS, JavaScript | Contributed | [Live site](https://dotclickmw.com/) |
+| **Dot Click IT Solutions** | Responsive company website for an IT solutions business in Malawi. Contributed | [Live site](https://dotclickmw.com/) |
 
 ### Systems and platforms I have helped deliver
 
