@@ -19,7 +19,7 @@
 
 ---
 
-## `$ whoami`
+## `Who am I?`
 
 ```text
 name        : Harold Banda
