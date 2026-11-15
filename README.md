@@ -21,7 +21,7 @@
 ```text
 Name        : Harold Banda
 Role        : IT Specialist · Cybersecurity & Data Protection Trainer · Data Analyst · Developer
-Education   : Bachelor of Management Information Systems (2026) · Advanced Diploma in IT (MUBAS)
+Education   : Bachelor of Management Information Systems · Advanced Diploma in IT (MUBAS)
 Experience  : 9+ years across NGO, micro-finance and software/web-hosting environments
 Certified   : Cisco CCNA · Microsoft · Google · IBM · Oxford · HKUST · Northeastern
 Languages   : English (fluent) · Chichewa (fluent)
