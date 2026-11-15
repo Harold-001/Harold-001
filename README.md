@@ -1,6 +1,3 @@
-<!--
-
--->
 
 <div align="center">
 
@@ -22,13 +19,13 @@
 ## `Who am I?`
 
 ```text
-name        : Harold Banda
-role        : IT Specialist · Cybersecurity & Data Protection Trainer · Data Analyst · Developer
-education   : Bachelor of Management Information Systems (2026) · Advanced Diploma in IT (MUBAS)
-experience  : 9+ years across NGO, micro-finance and software/web-hosting environments
-certified   : Cisco CCNA · Microsoft · Google · IBM · Oxford · HKUST · Northeastern
-languages   : English (fluent) · Chichewa (fluent)
-mission     : Make technology reliable, secure and understandable for everyone who depends on it
+Name        : Harold Banda
+Role        : IT Specialist · Cybersecurity & Data Protection Trainer · Data Analyst · Developer
+Education   : Bachelor of Management Information Systems (2026) · Advanced Diploma in IT (MUBAS)
+Experience  : 9+ years across NGO, micro-finance and software/web-hosting environments
+Certified   : Cisco CCNA · Microsoft · Google · IBM · Oxford · HKUST · Northeastern
+Languages   : English (fluent) · Chichewa (fluent)
+Mission     : Make technology reliable, secure and understandable for everyone who depends on it
 ```
 
 I am an IT professional who works where **infrastructure, security, data and people meet**. I keep multi-site networks and systems healthy, teach colleagues how to protect data and spot cyber threats, analyse data to support decisions, and build web and mobile applications.
