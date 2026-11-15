@@ -1,6 +1,5 @@
 <!--
-  HOW TO USE THIS FILE
-  3. Text inside <!-- --> comments is invisible on GitHub.
+
 -->
 
 <div align="center">
