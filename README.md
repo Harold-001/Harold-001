@@ -231,9 +231,10 @@ A short version of what I cover in awareness sessions:
 <div align="center">
 
 <!-- TODO: replace YOUR-USERNAME with your real GitHub username in the three links below. -->
-
+<!--
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-Harold-001&show_icons=true&theme=github_dark&hide_border=true&title_color=2ea6a0&icon_color=2ea6a0" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harold-001&layout=compact&theme=github_dark&hide_border=true&title_color=2ea6a0" alt="Top languages" />
+-->
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harold-001&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
