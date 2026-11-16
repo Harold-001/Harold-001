@@ -248,7 +248,7 @@ A short version of what I cover in awareness sessions:
 
 <div align="center">
 
-<!-- TODO: replace each link. Delete any button you do not want. -->
+<!-- TODO:: replace each link. Delete any button you do not want. -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harold-banda-one/)
 [![Email](https://img.shields.io/badge/Email-Send_a_message-2EA6A0?style=for-the-badge&logo=gmail&logoColor=white)](haroldbanda@yahoo.com)
